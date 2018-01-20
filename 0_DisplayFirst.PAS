@@ -8,5 +8,8 @@ Begin
      chuoimot:= 'My Name is A';
      Writeln(chuoimot);
      Writeln('Hello World');
+     
+     Writeln;
+     Writeln('----- Press <Enter> To Quit -----');
     Readln;
 End.
